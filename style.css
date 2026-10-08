@@ -1,0 +1,34 @@
+  p{
+        color:blue;
+        font-size 300px;
+      }
+      img{
+        width:657px;border:2px solid black;
+        height:600px;
+      }
+    body{
+        background-color: rgb(124, 60, 60);
+    }
+    #doremon{
+      color: aqua;
+    
+    }
+    .nobita{
+      color: black ;
+    }
+    #GIAN{
+      width: 200px;
+      height: 100px;
+      background-color: blue;
+    }
+    #loop{
+      width: 200px;
+      height: 100px;
+      background-color: rgb(147, 132, 13);
+    }
+    #hoop{
+      width: 200px;
+      height: 100px;
+      background-color: rgb(13, 170, 165);
+    }
+    
